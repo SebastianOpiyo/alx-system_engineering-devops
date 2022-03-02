@@ -1,2 +1,2 @@
 # alx-system_engineering-devops
-Tutorial solutions.
+Bash Tutorial solutions.
