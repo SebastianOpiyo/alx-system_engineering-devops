@@ -5,4 +5,5 @@
 4. Display the last 10 lines of a file using <tail> command.
 5. Display the first 10 lines of a file using <head> command.
 6. Create a file named of characters and write text to it.
-7. Save current state of directory in a file.
+7. Save current state of working directory.
+8. Duplicate last line.
