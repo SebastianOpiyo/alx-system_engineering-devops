@@ -4,4 +4,4 @@
 3. Displaying content of two files at ago using <cat> command.
 4. Display the last 10 lines of a file using <tail> command.
 5. Display the first 10 lines of a file using <head> command.
-6. Write a script that displays the 3rd line of a file.
+6. Create a file named of characters and write text to it.
