@@ -7,3 +7,5 @@
 6. Create a file named of characters and write text to it.
 7. Save current state of working directory.
 8. Duplicate last line.
+9. 
+10. Script to remove js file.
