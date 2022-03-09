@@ -3,3 +3,4 @@
 2. Lets display a file assignment, using <cat> command.
 3. Displaying content of two files at ago using <cat> command.
 4. Display the last 10 lines of a file using <tail> command.
+5. Display the first 10 lines of a file using <head> command.
